@@ -1,6 +1,3 @@
-# slack-dataspill
-This is the code for slack data spills
-
 Requirements:
 - python - pip install -U pip
 - slackclient - pip install slackclient
