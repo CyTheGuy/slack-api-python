@@ -1,14 +1,8 @@
 # slack-scripts
-This is the code for slack related scripts. **If the channel is private you need to be invited to it**
-
-If you get tickets asking for things you can track requests for scripts  and link the Jira ticket
-
-Other [scripts]( https://github.palantir.build/collabtools/slack-tools)
 
 ## Pre-requistes:
 
-- **Python 2.7, Pip, virtualenv**
-- This [doc](https://rtfm.palantir.build/docs/docs-for-docs/master/python.html#docs4docs-python) is SUPER helpful for installing the pre-reqs and making sure things are ready to go smoothly with this script.
+- **Python3, Pip, virtualenv**
 
 ## Configure Your Envrionment:
 
