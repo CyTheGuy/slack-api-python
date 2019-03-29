@@ -1,1 +1,11 @@
 .DS_Store
+venv/
+.vscode/
+__pycache__
+functions.pyc
+slack-automation.json
+slack-automation.yml
+Old*
+wip-*
+*.xlsx
+*.csv
